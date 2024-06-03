@@ -10,5 +10,5 @@ I have decided to show some of the works I was able to create during my process 
   3. Meteo-system like implementation of Oracle Data Cartridge Interface: [link](https://github.com/PiotrBelniak/example-of-ODCI-implementaton) 
   4. Function for printing anything(scalars,objects, collections): [link](https://github.com/PiotrBelniak/Printer-function) 
   5. Funtion for collections comparison : [link](https://github.com/PiotrBelniak/Collection-comparing-function)
-  6. Various advanced SQL queries: [link](https://github.com/PiotrBelniak/SQL-queries))
+  6. Various advanced SQL queries: [link](https://github.com/PiotrBelniak/SQL-queries)
   
